@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Rakesh3736Gupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋Hello,I am Rakesh Gupta. I am a motivated individual who is responsible towards his work and I know C++,c, HTML,
+   CSS, JavaScript , React js , Express js , Mongo DB, Data structure . I am always excited to learn new algorithms and technologies.
+- 👀 I’m interested in algorithms and technologie .
+- 🌱 I’m currently learning  B.tech (IT) .
+- 💞️ I’m looking to collaborate on best Company
+- 📫 How to reach me (rakeshgupta3736@gmail.com // linkedin.com/in/rakesh-gupta-88aa76221 // 
 
-<!---
-Rakesh3736Gupta/Rakesh3736Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
